@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name"    > Movies_App       </string>
+    <string name="Settings"    > Settings         </string>
+    <string name="Popular"     > Popular          </string>
+    <string name="Top_Rated"   > Top_Rated        </string>
+    <string name="Favorite"    > Favorite         </string>
+    <string name="favorite_btn"> Mark As Favorite </string>
+    <string name="summary"     > Read Summary     </string>
+    <string name="trailers"    > Watch Trailers   </string>
+    <string name="reviews"     > Read Reviews     </string>
+</resources>
